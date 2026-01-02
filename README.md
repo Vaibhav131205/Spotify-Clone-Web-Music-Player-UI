@@ -1,4 +1,5 @@
 # Spotify Clone – Web Music Player UI
+Spotify Clone – Web Music Player UI is a frontend project built using HTML and CSS that replicates the layout and design of the Spotify Web Player. It showcases responsive UI design, modern layout structuring, and real-world music streaming interface concepts for academic and learning purposes.
 
 ## Project Overview
 Spotify Clone – Web Music Player UI is a frontend-based web application that replicates the user interface of the Spotify Web Player. The project is developed using HTML and CSS to closely resemble the layout, design, and user experience of a real-world music streaming platform.
